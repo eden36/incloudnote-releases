@@ -1,8 +1,7 @@
 {
-  "version": "manual-master-5",
-  "build_number": 5,
-  "android_url": "https://github.com/eden36/incloudnote-releases/releases/download/manual-master-5/incloudnote-android-manual-master-5.apk",
-  "windows_url": "https://github.com/eden36/incloudnote-releases/releases/download/manual-master-5/incloudnote-windows-manual-master-5-setup.exe",
+  "version": "0.0.0",
+  "android_url": "https://github.com/eden36/incloudnote-releases/releases/download/manual-master-6/incloudnote-android-manual-master-6.apk",
+  "windows_url": "https://github.com/eden36/incloudnote-releases/releases/download/manual-master-6/incloudnote-windows-manual-master-6-setup.exe",
   "changelog": "",
   "released_at": "2026-06-07"
 }
