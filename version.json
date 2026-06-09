@@ -1,7 +1,7 @@
 {
-  "version": "0.0.0",
-  "android_url": "https://github.com/eden36/incloudnote-releases/releases/download/manual-master-8/incloudnote-android-manual-master-8.apk",
-  "windows_url": "https://github.com/eden36/incloudnote-releases/releases/download/manual-master-8/incloudnote-windows-manual-master-8-setup.exe",
+  "version": "1.0.2",
+  "android_url": "https://github.com/eden36/incloudnote-releases/releases/download/v1.0.2/incloudnote-android-v1.0.2.apk",
+  "windows_url": "https://github.com/eden36/incloudnote-releases/releases/download/v1.0.2/incloudnote-windows-v1.0.2-setup.exe",
   "changelog": "",
-  "released_at": "2026-06-08"
+  "released_at": "2026-06-09"
 }
