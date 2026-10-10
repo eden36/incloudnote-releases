@@ -1,9 +1,9 @@
 {
-  "version": "2.1.0",
-  "android_url": "https://github.com/eden36/incloudnote-releases/releases/download/v2.1.0/incloudnote-android-v2.1.0.apk",
-  "android_sha256": "8015a95b58c81f9afdb552951ca2c8329e51d1f2368bce2227bb4a3d3b0e8256",
-  "windows_url": "https://github.com/eden36/incloudnote-releases/releases/download/v2.1.0/incloudnote-windows-v2.1.0-setup.exe",
-  "windows_sha256": "e1851852703a24e2d39bf7c6cb5ecbc4d94bcc9638c70e8257b8ef77ce7aaf1a",
+  "version": "2.1.1",
+  "android_url": "https://github.com/eden36/incloudnote-releases/releases/download/v2.1.1/incloudnote-android-v2.1.1.apk",
+  "android_sha256": "a079fc15627c0247e855c4d152746e38cadb813eefc4ce19a4458396504fb3e9",
+  "windows_url": "https://github.com/eden36/incloudnote-releases/releases/download/v2.1.1/incloudnote-windows-v2.1.1-setup.exe",
+  "windows_sha256": "c0f85c81698eab363673495cca75319305d2577dfe9cbd3b86ac9d01ef94d0bf",
   "changelog": "",
   "released_at": "2026-10-10"
 }
