@@ -1,6 +1,9 @@
 {
-  "schema_version": 2,
-  "key_id": "incloudnote",
-  "payload": "eyJ2ZXJzaW9uIjoiMi4wLjUiLCJyZWxlYXNlZF9hdCI6IjIwMjYtMTAtMDkiLCJjaGFuZ2Vsb2ciOiIiLCJwbGF0Zm9ybXMiOnsiYW5kcm9pZCI6eyJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vZWRlbjM2L2luY2xvdWRub3RlLXJlbGVhc2VzL3JlbGVhc2VzL2Rvd25sb2FkL3YyLjAuNS9pbmNsb3Vkbm90ZS1hbmRyb2lkLXYyLjAuNS5hcGsiLCJzaGEyNTYiOiJhMmQwMzNiMzViZGFiNTE2NDIzMTE1NWYxZGJhMzJiN2IzNWU4Y2JiMmUyNTZmOTYzMDIyNTkxMDE5MjlmZDcyIiwic2l6ZSI6MTU2MTczNTQyfSwid2luZG93cyI6eyJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vZWRlbjM2L2luY2xvdWRub3RlLXJlbGVhc2VzL3JlbGVhc2VzL2Rvd25sb2FkL3YyLjAuNS9pbmNsb3Vkbm90ZS13aW5kb3dzLXYyLjAuNS1zZXR1cC5leGUiLCJzaGEyNTYiOiI3NGRjMzA2NzgyNDcwMzQyYmJjMzIyMzIwZDdjNmQ1OGIzZDFjNzAzNzM0ZjM2ZjJkODcyZDI2ODg4Y2QwNTRiIiwic2l6ZSI6NjkyODM0MDh9fX0K",
-  "signature": "G-2IAxQ71xgKJZtMtm5aZkIQrt2c20MeBQh6TQteHL2Ha9x_tXfuy15ZfFk3buXKrIG09jjhCQsSgTBdtxVECA"
+  "version": "2.1.0",
+  "android_url": "https://github.com/eden36/incloudnote-releases/releases/download/v2.1.0/incloudnote-android-v2.1.0.apk",
+  "android_sha256": "8015a95b58c81f9afdb552951ca2c8329e51d1f2368bce2227bb4a3d3b0e8256",
+  "windows_url": "https://github.com/eden36/incloudnote-releases/releases/download/v2.1.0/incloudnote-windows-v2.1.0-setup.exe",
+  "windows_sha256": "e1851852703a24e2d39bf7c6cb5ecbc4d94bcc9638c70e8257b8ef77ce7aaf1a",
+  "changelog": "",
+  "released_at": "2026-10-10"
 }
