@@ -1,7 +1,7 @@
 {
-  "version": "2.1.11",
-  "android_url": "https://github.com/eden36/incloudnote-releases/releases/download/v2.1.11/incloudnote-android-v2.1.11.apk",
-  "windows_url": "https://github.com/eden36/incloudnote-releases/releases/download/v2.1.11/incloudnote-windows-v2.1.11-setup.exe",
+  "version": "2.1.12",
+  "android_url": "https://github.com/eden36/incloudnote-releases/releases/download/v2.1.12/incloudnote-android-v2.1.12.apk",
+  "windows_url": "https://github.com/eden36/incloudnote-releases/releases/download/v2.1.12/incloudnote-windows-v2.1.12-setup.exe",
   "changelog": "",
   "released_at": "2026-11-20"
 }
